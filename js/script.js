@@ -1,5 +1,5 @@
 
-const apiKey = "YOUR_API_KEY";
+const apiKey = "fl7VI3qsoSsXGJfKE6gDSNTI5QTkeZE0";
 
 const gifContainer = document.querySelector("#gif-container");
 const fetchButton = document.querySelector("#fetch-button");
